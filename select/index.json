@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ベッドサイドミュージック",
+  "base_artist": "FRIENDS",
+  "createdAt": "2026-03-09T15:17:09.708545Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベッドサイドミュージック",
+      "artist": "FRIENDS",
+      "has_synced": false,
+      "path": "select/pl_01_ベッドサイドミュージック_FRIENDS.txt"
+    }
+  ]
+}
